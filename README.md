@@ -1,1 +1,4 @@
 # College-Filter
+# This is a beginner's practice project after learning python. 
+# In our project, we created a college filter that gives the user a list of five “best-fit colleges” based on their preferences. To be more specific, we built an user interface that contains seven different questions for the user relating to seven aspects that we consider to be important when choosing colleges: acceptance rate, school size, academic rigor, quantity of faculty, student faculty ratio, connections with alums, and college expenditure. The functions we designed record the user’s preferences by assigning every college a score after the user answers a question. The best-fit colleges are the schools with the highest total scores.
+# This filter helps solving student needs like "What if I would like to go to a big college but at the same time I hope to meet good professors and have funding for research?"
